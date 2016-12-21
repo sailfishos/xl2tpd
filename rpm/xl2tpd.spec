@@ -5,7 +5,7 @@ Release:    1
 Group:      Applications/Internet
 License:    GPLv2+
 URL:        https://github.com/xelerance/xl2tpd
-Source0:    https://github.com/xelerance/xl2tpd/archive/v1.3.8.tar.gz
+Source0:    https://github.com/xelerance/%{name}/archive/%{name}-%{version}.tar.gz
 Patch0:     change-default-prefix.patch
 BuildRequires:  coreutils
 BuildRequires:  sed
