@@ -11,6 +11,8 @@ BuildRequires:  coreutils
 BuildRequires:  sed
 BuildRequires:  ppp-devel
 BuildRequires:  libpcap-devel
+Requires:   ppp
+Requires:   ppp-libs
 
 %description
 xl2tp Layer 2 Tunnelling Protocol Daemon.
