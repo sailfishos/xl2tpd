@@ -1,6 +1,6 @@
 Name:       xl2tpd
 Summary:    Layer 2 Tunnelling Protocol Daemon (RFC 2661)
-Version:    1.3.19
+Version:    1.3.20
 Release:    1
 License:    GPLv2+
 URL:        https://github.com/sailfishos/xl2tpd
